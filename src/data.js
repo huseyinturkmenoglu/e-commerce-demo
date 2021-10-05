@@ -67,7 +67,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://www.vintageindustries.nl/download_front/hqsfzd1615/_overview_large_/1235_Rowing_short_Navy_Blue_2_.png",
     },
     {
       id:8,
